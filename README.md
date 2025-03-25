@@ -24,12 +24,15 @@ im study this smk ti p
 </div>
 
 <div align="center">
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Firmansyah441&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  
 </div>
