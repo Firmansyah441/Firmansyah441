@@ -15,20 +15,9 @@ im study this smk ti p
 ## 🌐 Connect with Me 🍬
 ![](https://nirzak-streak-stats.vercel.app/?user=Firmansyah441&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Firmansyah441&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Firmansyah441&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
   
 </div>
 
-<div align="center">
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Firmansyah441&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-  
-</div>
